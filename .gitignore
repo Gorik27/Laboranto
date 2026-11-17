@@ -1,0 +1,7 @@
+# Инфраструктура для агентов
+AGENTS.md
+docs/agents/
+docs/agentstriage-labels.md
+
+# Локальные артефакты
+.artifacts/
